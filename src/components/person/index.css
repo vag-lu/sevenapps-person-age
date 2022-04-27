@@ -1,0 +1,9 @@
+.person {
+    display: flex;
+    padding: 5px 20px;
+    max-width: 100%;
+    justify-content: space-between;
+    background-color: rgba(152, 208, 218, 0.427);
+    margin: 5px 0;
+    border-radius: 3px;
+}

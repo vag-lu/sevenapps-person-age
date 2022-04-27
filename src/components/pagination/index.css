@@ -1,0 +1,10 @@
+.page-control {
+    display: flex;
+    justify-content: space-between;
+    max-width: 100%;
+    margin: 10px 5px 30px 5px;
+}
+
+.pagination {
+    padding: 0 30%;
+}
